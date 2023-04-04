@@ -3,30 +3,41 @@
         "id": 1,
         "tasktitle": "Assignment",
         "description": "Java Project",
-        "duedate": "9 PM"
+        "duedate": "9 PM",
+        "tag": "#work",
+        "status":"OPEN"
+        
       },
       {
         "id": 2,
         "tasktitle": "Fifa",
         "description": "Ps 4",
-        "duedate": "3 PM"
+        "duedate": "3 PM",
+        "tag": "#Game",
+        "status":"OPEN"
       },
       {
         "id": 3,
         "tasktitle": "Swimming",
         "description": "ASR Stadium",
-        "duedate": "4 PM"
+        "duedate": "4 PM",
+        "tag": "#Sport",
+        "status":"OPEN"
       },
       {
         "id": 4,
         "tasktitle": "Lunch",
         "description": "Paradise",
-        "duedate": "12 PM"
+        "duedate": "12 PM",
+        "tag": "#Food",
+        "status":"DONE"
       },
       {
         "id": 5,
         "tasktitle": "Nap",
         "description": "rest",
-        "duedate": "6 PM"
+        "duedate": "6 PM",
+        "tag": "#Rest",
+        "status":"Working"
       }
 ]}
